@@ -13,7 +13,7 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 
 ### 💻 Languages:
 - **Frontend:** HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js, PHP, C#
+- **Backend:** Node.js & PHP
 - **Database Management:** MySQL, MongoDB, GraphQL, Neo4j
 -  🌱 Currently learning Rust
 
