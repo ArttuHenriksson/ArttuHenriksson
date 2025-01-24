@@ -15,6 +15,7 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 - **Frontend:** HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js, PHP, C#
 - **Database Management:** MySQL, MongoDB, GraphQL, Neo4j
+-  🌱 Currently learning Rust
 
 ### 🛠️ Frameworks and Tools:
 - **Frontend Frameworks:** React, Angular, Svelte, Vue.js, Next.js
@@ -35,7 +36,6 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 
 ## 🎯 Fun Facts
 - 🌍 I’m passionate about **technology** and **sports**—two things that keep me inspired and motivated!
-- 🌱 Currently learning Rust
 
 ---
 
