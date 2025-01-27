@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arttu! 
+# 👋 Hi there! 
 ---
 
 ## 🌟 About Me
