@@ -1,7 +1,4 @@
 # 👋 Hi there, I'm Arttu! 
-
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) <!-- Fun waving hand GIF -->
-
 ---
 
 ## 🌟 About Me
@@ -10,7 +7,6 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 
 - 🌱 **Always Learning:** Exploring new tools and frameworks to stay at the forefront of Fullstack development.
 - ⚽ **Passionate About Sports:** Tech and sports inspire me to combine creativity, teamwork, and discipline in everything I do.
-- 🤝 **Open to Collaboration:** I enjoy working with others to bring ideas to life!
 
 ---
 
@@ -56,9 +52,6 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 
 - 🌍 **Tech & Sports Enthusiast:** I’m passionate about **technology** and **sports**—two things that keep me inspired and motivated!
 - 💡 **Why Sports?** Sports teach me teamwork, resilience, and focus—skills that are invaluable in software development.
-- ☕ **Fuelled by:** Coffee and curiosity to learn new things every day!
-
-![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif) <!-- Fun coding GIF -->
 
 ---
 
@@ -67,12 +60,6 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 - 📧 **Email:** [arttu.henriksson01@gmail.com](mailto:arttu.henriksson01@gmail.com)
 - 💼 **LinkedIn:** [Arttu Henriksson](https://www.linkedin.com/in/arttu-henriksson/)
 - 🌐 **Portfolio:** [My Portfolio!](https://arttu-henriksson.netlify.app/)
-
----
-
-## 🛠️ Let's Collaborate!
-
-I’m always open to **collaboration opportunities** and connecting with like-minded developers. Feel free to reach out if you’d like to work on something exciting together!
 
 ---
 
