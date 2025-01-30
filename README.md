@@ -30,6 +30,7 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 ![Vue Badge](https://img.shields.io/badge/Framework-Vue.js-green?logo=vue.js&logoColor=white)
 
 ### 🛠️ Frameworks and Tools:
+
 - **Frontend Frameworks:** React, Angular, Svelte, Vue.js, Next.js
 - **Backend Frameworks:** Express, NestJS
 - **Version Control:** Git & GitHub
@@ -56,7 +57,6 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 
 - 📧 **Email:** [arttu.henriksson01@gmail.com](mailto:arttu.henriksson01@gmail.com)
 - 💼 **LinkedIn:** [Arttu Henriksson](https://www.linkedin.com/in/arttu-henriksson/)
-- 🌐 **Portfolio:** [My Portfolio!](https://arttu-henriksson.netlify.app/)
 
 ---
 
