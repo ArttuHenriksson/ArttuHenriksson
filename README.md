@@ -50,7 +50,7 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 ## 🎯 Fun Facts
 
 - 🌍 **Tech & Sports Enthusiast:** I’m passionate about **technology** and **sports**—two things that keep me inspired and motivated!
-- 
+  
 ---
 
 ## 📫 How to Reach Me
