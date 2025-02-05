@@ -12,22 +12,25 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 
 ## 🔧 Tech Stack
 
-![HTML Badge](https://img.shields.io/badge/Code-HTML-orange?logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Code-Node.js-green?logo=node.js&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/Code-PHP-purple?logo=php&logoColor=white)
+### 🖥️ Frontend:
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 
-### 💻 Languages:
-- **Frontend:** HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js & PHP
-- **Database Management:** MySQL, MongoDB, GraphQL, Neo4j
-- 🌱 Currently learning **Rust**
+### ⚙️ Backend:
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)
 
-![React Badge](https://img.shields.io/badge/Framework-React-blue?logo=react&logoColor=white)
-![Angular Badge](https://img.shields.io/badge/Framework-Angular-red?logo=angular&logoColor=white)
-![Vue Badge](https://img.shields.io/badge/Framework-Vue.js-green?logo=vue.js&logoColor=white)
+### 🗄️ Databases:
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-blue?logo=neo4j&logoColor=white)
+
+🌱 Currently learning **Rust**
+
+
 
 ### 🛠️ Frameworks and Tools:
 
@@ -42,8 +45,9 @@ I’m a **Third-year Business Information Technology Student** specializing in *
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arttuhenriksson&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arttuhenriksson&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
 
